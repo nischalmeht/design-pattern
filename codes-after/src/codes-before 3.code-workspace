@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "codes-before 3",
+			"path": "../../codes-before 3"
+		},
+		{
+			"name": "design",
+			"path": "../../../design"
+		},
+		{
+			"name": "proxy",
+			"path": "../../proxy"
+		},
+		{
+			"name": "codes-after",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
